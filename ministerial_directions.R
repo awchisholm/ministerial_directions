@@ -20,4 +20,5 @@ ggtitles <- ggtitle('Ministerial Directions Per Year For Recent UK Prime Ministe
 ggt <- theme(text = element_text(size=20), axis.text.x = element_text(angle=90, hjust=1)) 
 
 gg+ggbar+gglabelsx+gglabelsy+ggtitles+ggt
+ggsave('ministerial_directions.png')
 

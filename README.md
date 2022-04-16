@@ -5,3 +5,7 @@ Some data and an analysis showing that the number of ministerial directions in t
 The graph looks like this 
 
 ![Ministerial Directions per year for recent UK prime ministers](ministerial_directions.png)
+
+Prime Minister Johnson has the largest number per year.
+
+See my blog post [here](https://rapidminernotes.blogspot.com/2022/04/ministerial-directions-improving.html) for more background.
