@@ -4,4 +4,4 @@ Smoe data and an analysis showing that the number of ministerial directions in t
 
 The graph looks like this 
 
-![Ministerial Directions per year for recent UK prime ministers][ministerial_directions.png]
+![Ministerial Directions per year for recent UK prime ministers](ministerial_directions.png)
